@@ -1,4 +1,4 @@
 # miRNA target prediction
 
 We developed a new hybrid deep learning approach to predict targets of miRNAs by integrating CNNs and RNNs. 
-This is an upgrade of our previous method (https://github.com/tjgu/miTAR) that be run on both CPU and GPU.
+This is an upgrade of our previous method (https://github.com/tjgu/miTAR) that can be run on both CPU and GPU.
